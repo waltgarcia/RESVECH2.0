@@ -8,7 +8,7 @@
 
 ## ¿Qué es RESVECH 2.0?
 
-RESVECH 2.0 (*Resultados, Escara, Slough, Válvula, Exudado, Cierre, Herida*) es una escala estandarizada para medir la evolución de las heridas crónicas hacia la cicatrización. Fue desarrollada originalmente en España y adaptada y validada para la población mexicana, brindando un instrumento cuantitativo, reproducible y de fácil aplicación en la práctica clínica.
+RESVECH 2.0 es una escala estandarizada para medir la evolución de las heridas crónicas hacia la cicatrización. Fue desarrollada originalmente en Colombia, adaptada y validada para la población mexicana y de forma general en Latinoamérica, brindando un instrumento cuantitativo, reproducible y de fácil aplicación en la práctica clínica.
 
 La escala considera seis dominios, con una **puntuación total que oscila de 0 a 34 puntos**:
 
