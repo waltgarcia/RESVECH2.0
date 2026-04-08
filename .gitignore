@@ -1,0 +1,21 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# renv (dependency manager)
+renv/library/
+renv/.cache/
+
+# rsconnect deploy metadata (contains account tokens — do not commit)
+rsconnect/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak
